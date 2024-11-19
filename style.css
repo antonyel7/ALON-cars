@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(7, 111, 247) 
+    color: rgb(255, 255, 255) 
+}
+
+
+
+
+.chamada-texto{
+    margin-right: 100px;
+}
+
+
+img{
+    height: 200px;
+}
+
+
+.categoria-vídeos{
+display: flex;
+overflow-x:auto;
+gap: 20px;
+}
